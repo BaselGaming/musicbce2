@@ -1,6 +1,6 @@
-token=NTE4NDExMzI2MjAxMTM1MTM3.DuQjsA.fkymd-CvwP9X6DUCkjThNnmcg1E
-owner=462038057529507841 
-prefix=A
-game=I love my self , 
+token=NTI3NTM5MzI1NzY5MDg5MDI2.DwVM7A.cexoIuMf2gndt066IwaI8OmuTps
+owner=451162715981873173 
+prefix=+2
+game=Create By , Basel 
 stayinchannel=true
 songinstatus=false
